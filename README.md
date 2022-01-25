@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **anirudh.r.2506@gmail.com**
 
-- ⚡ Fun fact **IR >> ARR**
+- ⚡ Fun fact **Python wasn't named after the snake but after Monty Python :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

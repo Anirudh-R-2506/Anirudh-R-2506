@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github.com/Anirudh-R-2506/Anirudh-R-2506/raw/main/static/hello.jpg"><br><Br>
+<center><img src="https://github.com/Anirudh-R-2506/Anirudh-R-2506/raw/main/static/hello.jpg"><br><Br></center>
 <h1 align="center">Hi 👋, I'm Anirudh R</h1>
 <h3 align="center">A passionate developer from India</h3>
 

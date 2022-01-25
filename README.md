@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<h3 align="center">A passionate developer from India</h3>-->
 <p align="center"><img src="https://github.com/Anirudh-R-2506/Anirudh-R-2506/raw/main/static/hello.gif"><br><Br></p>
 <h1 align="center">Hi 👋, I'm Anirudh R</h1>
-<h3 align="center">A passionate developer from India</h3>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=%230969DA&lines=Passionate+developer+from+India;Engineering+undergraduate+student"></p>
 
 - 🎓 Currently pursuing **BTech in CSE from MIT Manipal**
 

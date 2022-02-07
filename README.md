@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🎓 Currently pursuing **BTech in CSE from MIT Manipal**
 
-- 🌱 I’m currently learning **ElectronJS and Laravel**
+- 🌱 I’m currently learning **ReactJS and Laravel**
 
 - 💬 Ask me about **JS, Python and PHP**
 

@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **anirudh.r.2506@gmail.com**
 
 - ⚡ Fun fact **Python wasn't named after the snake but after Monty Python :)**
+- <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anirudh-R-2506)](https://github.com/Anirudh-R-2506/github-profile-trophy)
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_._pictographer_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._pictographer_._" height="30" width="40" /></a>

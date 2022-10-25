@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 Excelling in **JS and PHP**
 
+- 🔭 I’m currently learning MindsDB
+
 - 📫 How to reach me **anirudh.r.2506@gmail.com**
 
 - ⚡ Fun fact **Python wasn't named after the snake but after Monty Python :)**

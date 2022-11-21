@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFn7qRgL_7AhXVTWwGHeUeD1kQwqsBegQIChAF&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBO-8Hx8kPtA&usg=AOvVaw3KddZ7Pv7wfW458wINpu3T
+
+https://saleyn.github.io/erlang/
 <h3 align="center">A passionate developer from India</h3>-->
 <p align="center"><img src="https://github.com/Anirudh-R-2506/Anirudh-R-2506/raw/main/static/hello.gif"><br><Br></p>
 <h1 align="center">Hi 👋, I'm Anirudh R</h1>

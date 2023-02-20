@@ -24,7 +24,7 @@ https://saleyn.github.io/erlang/
 
 - 🌱 Excelling in **JS and PHP**
 
-- 🔭 I’m currently learning **MindsDB and Erlang**
+- 🔭 I’m currently learning **MindsDB and GoLang**
 
 - 📫 How to reach me **anirudh.r.2506@gmail.com**
 

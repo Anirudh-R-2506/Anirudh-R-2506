@@ -39,6 +39,15 @@ https://saleyn.github.io/erlang/
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudh-r-2506&show_icons=true&theme=react&locale=en&count_private=true" alt="anirudh-r-2506" /><br><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-r-2506&layout=compact&show_icons=true&theme=react&locale=en&line_height=30&v=5" /><br>
 <!--START_SECTION:waka-->
+
+```text
+From: 20 February 2023 - To: 21 February 2023
+
+Total Time: 36 mins
+
+Blade Template   36 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->  
 <br>
 <h3 align="left">Languages and Tools:</h3>

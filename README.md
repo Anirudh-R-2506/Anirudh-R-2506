@@ -41,20 +41,20 @@ https://saleyn.github.io/erlang/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2023 - To: 22 July 2023
+From: 20 February 2023 - To: 23 July 2023
 
-Total Time: 308 hrs 31 mins
+Total Time: 311 hrs 44 mins
 
-PHP              171 hrs 21 mins >>>>>>>>>>>>>>-----------   55.54 %
-Blade Template   120 hrs 33 mins >>>>>>>>>>---------------   39.08 %
-Bash             4 hrs           -------------------------   01.30 %
-JavaScript       2 hrs 31 mins   -------------------------   00.82 %
-HTML             2 hrs 18 mins   -------------------------   00.75 %
-JSON             1 hr 50 mins    -------------------------   00.60 %
+PHP              172 hrs 39 mins >>>>>>>>>>>>>>-----------   55.39 %
+Blade Template   122 hrs 27 mins >>>>>>>>>>---------------   39.28 %
+Bash             4 hrs           -------------------------   01.29 %
+JavaScript       2 hrs 31 mins   -------------------------   00.81 %
+HTML             2 hrs 18 mins   -------------------------   00.74 %
+JSON             1 hr 50 mins    -------------------------   00.59 %
 SQL              1 hr 42 mins    -------------------------   00.55 %
 Python           1 hr 4 mins     -------------------------   00.35 %
-CSS              1 hr            -------------------------   00.33 %
-Other            56 mins         -------------------------   00.31 %
+CSS              1 hr            -------------------------   00.32 %
+Other            56 mins         -------------------------   00.30 %
 ```
 
 <!--END_SECTION:waka-->  

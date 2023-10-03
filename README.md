@@ -41,7 +41,7 @@ https://saleyn.github.io/erlang/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2023 - To: 30 September 2023
+From: 20 February 2023 - To: 01 October 2023
 
 Total Time: 377 hrs 42 mins
 
